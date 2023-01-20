@@ -1,0 +1,2 @@
+Take a natural number as input from the user and then calculate the sum of all numbers from
+1 to that natural number. Using a for loop for this program.
